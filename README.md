@@ -1,2 +1,2 @@
 # bootstrap-boilerplate
-Day 3 Mobile Friendly
+Day 6 Mobile Friendly
